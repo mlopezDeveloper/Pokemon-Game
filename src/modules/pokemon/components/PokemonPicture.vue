@@ -8,7 +8,7 @@
         <img 
         v-else
         :src="pokemonImage"
-        class="h-[200px]"
+        class="fade-in h-[200px]"
         alt="pokemon image"
         >
     </section>

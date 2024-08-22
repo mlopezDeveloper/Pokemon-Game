@@ -5,4 +5,8 @@
 html,
 body {
   background-color: #f1f1f1;
+  background-image: url('../assets/fondo1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
